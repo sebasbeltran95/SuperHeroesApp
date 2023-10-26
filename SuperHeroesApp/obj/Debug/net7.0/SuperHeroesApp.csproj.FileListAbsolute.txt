@@ -1,0 +1,14 @@
+D:\platzi\SuperHeroesApp\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.exe
+D:\platzi\SuperHeroesApp\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.deps.json
+D:\platzi\SuperHeroesApp\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.runtimeconfig.json
+D:\platzi\SuperHeroesApp\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.dll
+D:\platzi\SuperHeroesApp\SuperHeroesApp\bin\Debug\net7.0\SuperHeroesApp.pdb
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.AssemblyInfoInputs.cache
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.AssemblyInfo.cs
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.dll
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\refint\SuperHeroesApp.dll
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.pdb
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\SuperHeroesApp.genruntimeconfig.cache
+D:\platzi\SuperHeroesApp\SuperHeroesApp\obj\Debug\net7.0\ref\SuperHeroesApp.dll
